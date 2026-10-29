@@ -132,7 +132,7 @@ Compare your PC with [what you need](#what-you-need) above. (**Settings → Syst
 ### Step 4: Start the installer
 
 1. Open the WindowSmash folder and double-click **`Install WindowSmash.bat`**.
-2. Windows asks whether to run it (**The publisher could not be verified**): click **Run**. On some PCs a blue **Windows protected your PC** box comes instead: click **More info**, then **Run anyway**. Windows asks this once, about anything downloaded that isn't signed.
+2. Windows asks whether to run it (**The publisher could not be verified**): click **Run**. On some PCs a blue **Windows protected your PC** box comes up instead: click **More info**, then **Run anyway**. Windows asks this once, about anything downloaded that isn't signed.
 
 A window opens and shows each step as it goes. First it fetches the newest WindowSmash from GitHub, if there is a newer one, and checks your PC. Everything it shows is also kept in `install.log` in the WindowSmash folder.
 
